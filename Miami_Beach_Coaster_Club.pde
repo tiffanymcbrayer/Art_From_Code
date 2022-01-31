@@ -1,5 +1,8 @@
+// http://astoryisnotatree.net/?p=15554
+// go to this link to see the video of it in action!
+
 // Art From Code: Fall 2020 
-// Miami Beach Boardwalk 
+// Miami Beach Coaster Club 
 
 float time = 0;
 
